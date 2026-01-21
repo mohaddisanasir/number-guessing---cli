@@ -2,6 +2,9 @@
 
 A simple Python number guessing game where the player tries to guess a randomly generated number between **1 and 100**.
 
+This project is based on the **roadmap.sh Number Guessing Game project**:  
+🔗 https://roadmap.sh/projects/number-guessing-game
+
 ---
 
 ## 📌 How the Game Works
